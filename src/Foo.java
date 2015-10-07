@@ -9,5 +9,6 @@
  * @author db591164
  */
 public class Foo {
+    System.out.println("hello");
     
 }
