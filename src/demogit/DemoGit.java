@@ -16,7 +16,7 @@ public class DemoGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.err.println("Bonjour manel !");
+        System.out.println("Bonjour manel !");
     }
     
 }
